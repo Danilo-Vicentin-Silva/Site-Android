@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap');
+/*font-family: 'Merriweather', serif;*/
+
+body {
+    font-family: 'Merriweather', serif;
+}
+
+/*----------cabeçalho-------*/
+p#cabeçalho {
+    background-color: #DCAA41;
+    color: white;
+}
+
+img#cabeçalho {
+    margin-left: 1250px;
+}
+
+a#cabeçalho {
+    text-decoration: none;
+    color: #DCAA41;
+}
+
+/*---------------------------*/
+
+
+/*----------Login*-----------*/
+img#entrarImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#caixa {
+    text-align: justify;
+    background-color: white;
+    height: 360px;
+    width: 400px;
+    border-radius: 10px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+input#entrarButton {
+    text-align: center;
+    width: 29em;
+    height: 4em;
+    background-color: #1765BE;
+    border-radius: 1em;
+    color: white;
+
+}
+
+input#entrarButton:hover {
+    background-color: #339CF7;
+}
+
+.especialP {
+    color: white;
+    text-align: center;
+}
+
+div#support {
+    text-align: center;
+}
+
+.senhaLogin {
+    width: 22em;
+    height: 2em;
+    border-radius: 0.5em;
+    background-color: rgb(201, 199, 199);
+}
+
+.senhaLogin:hover {
+    background-color: #bbbbbb;
+}
+
+/*---------------------*/
+
+/* Configurações seccoes principais */
+
+input#buscar {
+    width:160px;
+    height:2.5em;
+    padding: 0.7em;
+    display: inline-block;
+}
+
+div.main {
+    color: white;
+    margin-bottom: 15px;
+    padding: 15px;
+    background-color: #339CF7;
+    border-radius: 15px;
+    width: 310px;
+    height: 100px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.61);
+    display: inline-block;
+    margin-right: 1.5em;
+}
+
+div.main:hover {
+    background-color: #DCAA41;
+}
+
+h3.main {
+    color: #1765BE;
+}
+
+a.main {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* ------Avaliações---------- */
+div#avaliacoes {
+    background-color: rgba(184, 184, 184, 0.562);
+    padding: 10px;
+    width: 1000px;
+    margin-left: 200px;
+}
+p.colegio {
+    background-color:#339CF7;
+    width:170px;
+    border-radius: 10px;
+    color: white;
+}
+p#avaliacoes {
+    font-size: 1.3em;
+    padding: 20px;
+    background-color: #339CF7;
+    color: white;
+    width: 960px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+/*-----------------------------*/

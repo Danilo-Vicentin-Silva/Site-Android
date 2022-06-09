@@ -1,0 +1,15 @@
+Objetivo e especificações: Criar um site melhor e parecido com o do Positivo On, criar funções melhores e fluidez maior na navegação do site em si.
+
+Exercitando: Projeto pessoal para exercitar TODOS os meus conhecimentos em JS, HTML e CSS para melhorar minha experiência na área de Web Developer.
+
+Construção do site será pagina/pagina
+
+Paleta de cores: 
+
+#DCAA41 - LARANJA PADRÃO
+#339CF7 - AZUL PADRÃO
+#EF8A24 - LARANJA VIVO
+#2555EF - AZUL ESCURO
+#1765BE - AZUL 
+
+Fonte: 
