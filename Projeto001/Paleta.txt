@@ -1,7 +1,0 @@
-Paleta de cores do site:
-Preto, branco;
-A: #F87C0C
-B: #D94F0B
-C: #F02E00
-D: #D9130B
-E: #F80C64
