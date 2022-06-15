@@ -1,2 +1,2 @@
 # Projetos
-Projetos iniciais que serão futuramente separados e melhorados
+Projetos construídos em HTML5, CSS3 e Javascript
